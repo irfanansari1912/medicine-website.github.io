@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url('image/bg.jpg');
+}
+
+.card-deck {
+    margin-left: 150px;
+}
+
+.footer {
+    background-color: aqua;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
